@@ -1,0 +1,105 @@
+#firstDiv{
+	color: green;
+	background: #19288c;	
+}
+
+#secondDiv{
+	color: green;	
+}
+
+#thirdDiv{
+	color: green;	
+}
+
+#firstDiv:hover{
+	color: red;	
+	font-weight: bold;
+}
+
+#secondDiv:hover{
+	color: blue;
+	font-weight: bold;
+}
+
+#thirdDiv:hover{
+	color: blue;	
+	font-weight: bold;
+}
+
+#darkside:hover{	
+	background: #000000;
+	position: fixed;
+    width:200px;
+    height:200px;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+    border-bottom-width:1px;
+    border-top-width:1px;
+    border-right-width:1px;
+    border-left-width:1px;
+    border-style:solid;
+    border-color:#000000;
+    text-align:center;
+	
+}
+#darkside{
+	background: #ffffff;
+	position: fixed;
+    width:200px;
+    height:200px;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+    border-bottom-width:1px;
+    border-top-width:1px;
+    border-right-width:1px;
+    border-left-width:1px;
+    border-style:solid;
+    border-color:#000000;
+    text-align:center;
+}
+
+#introduction{
+	position: right;	
+}
+
+#img{
+	position: fixed;
+    width:400;
+    height:400;
+    top: 60%;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -100px;
+    border-bottom-width:1px;
+    border-top-width:1px;
+    border-right-width:1px;
+    border-left-width:1px;
+    border-style:solid;
+    border-color:#000000;
+    text-align:center;
+}
+
+#me{
+	text-align: center;	
+	font-weight: bold;
+	font-size: 50px;
+}
+
+#text{
+	text-align: center;	
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#intro{
+	background-color: #2B579A;	
+}
+
+#darksidediv{
+	background-color: black;
+	color: white;
+}
